@@ -1,2 +1,8 @@
 .v_env
 model.pth
+.git-credentials
+.gitconfig
+.cache
+.bash_history
+Miniconda3-latest-Linux-x86_64.sh
+Miniconda3-latest-MacOSX-arm64.sh
